@@ -3,14 +3,10 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
 
-O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Na contemporaneidade é inegável assumir que a sociedade como um todo esta imersa no universo tecnológico e em seus dispositivos, os quais se tornaram indispensáveis no âmbito do cotidiano para a execução de um leque diverso de atividades, variando das mais triviais até as tarefas de maior complexidade. No entanto, apesar do uso recorrente desses aparatos, ainda há um extenso desconhecimento por maior parte da população a respeito de como funciona os softwares e aplicativos que dão vida aos aparelhos eletrônicos, o que gera um uso não consciente e molda um usuário sem senso crítico e alheio aos mecanismos fundamentais de funcionamento de computadores, dispositivos mobiles, e softwares como um todo. Com isso em mente, temos como prioridade a quebra do "analfabetismo" tecnológico por meio da introdução de princípios básicos de funcionamento dos aplicativos, focando principalmente na área de conhecimento da programação e em como ela serve como pilar essencial na construção de qualquer sistema operado por hardware. De preferência, adotando medidas socioeducativas em instituições de ensino básico, para que crianças e adolescentes, indivíduos em fase crucial de maturação intelectual, possam absorver um conteúdo que lhes explicará todo o universo do campo tecnológico.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Adicionalmente, pela sua omnipresência na vida das pessoas, os recursos tecnológicos são cada vez mais requisitados por comunidades diferentes com diferentes necessidades, fator o qual cria um imenso fluxo de demanda por novas adições tecnológicas, isso gera um desequilíbrio no mercado de trabalho já que a formação de obra qualificada não é o suficiente para atender esse aumento de demanda. Logo torna-se aparente que há um déficit de formação de profissionais da área de tecnologia, a qual deve ser confrontada pelo nosso grupo com medidas estimulativas que encorajem novos indivíduos a seguirem a carreira da área de tecnologia, almejando suprir a diferença entre demanda e oferta.
 
 ## Objetivos
 
