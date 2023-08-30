@@ -10,12 +10,11 @@ Adicionalmente, pela sua omnipresência na vida das pessoas, os recursos tecnol�
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho que será realizado pelo grupo indicando qual é o objetivo geral que se busca atingir para solucionar/minimizar o problema apresentado acima. 
+À medida que os anos passam, a computação e as tecnologias em geral têm experimentado um crescimento exponencial, resultando em uma significativa escassez de profissionais qualificados nesse setor. Diante desse cenário, torna-se de suma importância conscientizar as crianças e adolescentes de que essa é uma área altamente promissora, cuja relevância continuará a aumentar ao longo do tempo. A demanda por novos profissionais também segue em constante crescimento.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Uma abordagem eficaz para conquistar esse público-alvo é apresentar os princípios básicos da computação e alguns conceitos fundamentais de programação e desenvolvimento. Apesar da onipresença da tecnologia no cotidiano das pessoas, persiste um grande desconhecimento acerca dos bastidores desse mundo. É crucial transmitir a esses jovens que por trás de aplicativos e jogos aparentemente simples, residem milhares de linhas de código, sendo cada trecho responsável por uma função específica na aplicação, como a interface ou o gerenciamento de bancos de dados.
+
+O universo da computação e da tecnologia tem se expandido de forma extraordinária, gerando uma demanda constante por novos profissionais. Para despertar o interesse de potenciais estudantes na área, é necessário oferecer uma visão abrangente não apenas da programação em linguagens de desenvolvimento, mas também do amplo campo da computação como um todo.
 
 ## Justificativa
 
