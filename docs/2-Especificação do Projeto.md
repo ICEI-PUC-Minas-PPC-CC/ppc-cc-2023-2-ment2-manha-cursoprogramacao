@@ -8,7 +8,7 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 |**1.Augusto dos Santos**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/docs/img/Augusto.jpg" width="200" height="200"/>|**Idade:** 14 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
+<img src="docs/img/Augusto.jpg" width="200" height="200"/>|**Idade:** 14 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
 |**Motivações:**Deseja desbravar o mundo da tecnologia e desenvolvimento.  |**Frustações:** Por mais que seja um prodígio no ambiente em que vive não tem condições para pagar um curso para tal e sua escola não provem nenhum tipo de atividade ou curso sobre o assunto.   |**Hobbies, história:** É um grande prodígio na área tecnológica e exatas além de um grande entusiasta de games, porém não tem condições para se desenvolver no momento de forma autônoma.
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
