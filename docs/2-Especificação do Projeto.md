@@ -14,8 +14,8 @@ Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia 
 
 |**2.Pedro Guilherme**|           |                             | 
 |-------------------|-----------|-----------------------------|
-![Augusto](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-cursoprogramacao/assets/142806753/573f8051-e607-48c6-930f-f97007751b87)|**Idade:** 14 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
-|**Motivações:** Deseja desbravar o mundo da tecnologia e desenvolvimento.  |**Frustações:** Por mais que seja um prodígio no ambiente em que vive não tem condições para pagar um curso para tal e sua escola não provem nenhum tipo de atividade ou curso sobre o assunto.   |**Hobbies, história:** É um grande prodígio na área tecnológica e exatas além de um grande entusiasta de games, porém não tem condições para se desenvolver no momento de forma autônoma.
+![Pedro](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-cursoprogramacao/assets/142806753/c5bc956c-8372-4d05-9f96-de7ab0203721)|**Idade:** 15 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
+|**Motivações:** Experimentar novos ares para que possa decidir o que fará em seu futuro.  |**Frustações:** Por mais que seja um prodígio no ambiente em que vive não tem condições para pagar um curso para tal e sua escola não provem nenhum tipo de atividade ou curso sobre o assunto.   |**Hobbies, história:** É um grande prodígio na área tecnológica e exatas além de um grande entusiasta de games, porém não tem condições para se desenvolver no momento de forma autônoma.
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
 > **Links Úteis**:
