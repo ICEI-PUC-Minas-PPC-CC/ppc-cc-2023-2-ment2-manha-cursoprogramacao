@@ -1,6 +1,6 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Neste documento descritivo, apresentaremos uma visão abrangente do projeto que abordaremos. Este projeto visa abordar uma questão crítica na sociedade contemporânea: o analfabetismo tecnológico e a escassez de profissionais qualificados na área de tecnologia da informação. Ao longo deste documento, discutiremos o contexto em que esse problema se insere, os desafios que ele representa, os objetivos que buscamos alcançar, a justificativa por trás de nossa iniciativa e o público-alvo a quem nos destinamos.
 
 ## Problema
 
