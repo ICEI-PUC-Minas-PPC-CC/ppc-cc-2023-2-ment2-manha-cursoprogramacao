@@ -26,12 +26,11 @@ Com isso em mente, almejamos em nossas aulas de programação introduzir os jove
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação ou se beneficiarão da ação extensionista, indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes/beneficiados ou quais serão os papéis dos usuários na aplicação/ação extensionista. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
+O público-alvo deste projeto citado são adolescentes com idades entre 13 e 15 anos que frequentam instituições de ensino básico. Essa faixa etária foi escolhida devido à sua fase de desenvolvimento cognitivo, o qual os jovens estão curiosos e propícios a novas experiências de aprendizado.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual.
+A causa tem como objetivo  atingir adolescentes que, apesar de estarem imersos no uso de dispositivos tecnológicos, ainda não tiveram o conhecimento de como a tecnologia funciona. Esses indivíduos podem ser considerados como “usuários" passivos de tecnologia. Ademais, o objetivo é transformá-los em "criadores" ativos, isto é, capacita-los a entender e até mesmo desenvolver suas próprias soluções tecnológicas.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Além disso, o projeto também é direcionado a pessoas de diversas origens socioeconômicas, desde aqueles que podem não ter acesso fácil a oportunidades de aprendizado tecnológico, até mesmo aqueles que podem vir a ter com facilidade. 
+Sendo assim, procura-se garantir que o conhecimento sobre programação e tecnologia seja acessível a todos, independentemente de sua situação financeira ou local de residência.
+
+Em resumo, o público-alvo deste projeto seriam adolescentes de 13 a 15 anos, independentemente do seu fator econômico, mas que desejam aprender sobre programação e tecnologia, desenvolver habilidades críticas para a sociedade atual e explorar oportunidades educacionais e profissionais no campo da tecnologia. 
