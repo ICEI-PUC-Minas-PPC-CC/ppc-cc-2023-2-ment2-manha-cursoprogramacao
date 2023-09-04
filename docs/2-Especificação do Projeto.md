@@ -6,13 +6,10 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 ## Personas
 
-Exemplo:
-
-|**Camila Fiães**|           |                             | 
+|**1.Augusto dos Santos**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Contagem - Minas Gerais. **Ocupação:** Caixa de Supermercado.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
-|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
-
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 14 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
+|**Motivações:**Deseja desbravar o mundo da tecnologia e desenvolvimento.  |**Frustações:** Por mais que seja um prodígio no ambiente em que vive não tem condições para pagar um curso para tal e sua escola não provem nenhum tipo de atividade ou curso sobre o assunto.   |**Hobbies, história:** É um grande prodígio na área tecnológica e exatas além de um grande entusiasta de games, porém não tem condições para se desenvolver no momento de forma autônoma.
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
 > **Links Úteis**:
