@@ -9,7 +9,13 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 |**1.Augusto dos Santos**|           |                             | 
 |-------------------|-----------|-----------------------------|
 ![Augusto](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-cursoprogramacao/assets/142806753/573f8051-e607-48c6-930f-f97007751b87)|**Idade:** 14 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
-|**Motivações:**Deseja desbravar o mundo da tecnologia e desenvolvimento.  |**Frustações:** Por mais que seja um prodígio no ambiente em que vive não tem condições para pagar um curso para tal e sua escola não provem nenhum tipo de atividade ou curso sobre o assunto.   |**Hobbies, história:** É um grande prodígio na área tecnológica e exatas além de um grande entusiasta de games, porém não tem condições para se desenvolver no momento de forma autônoma.
+|**Motivações:** Deseja desbravar o mundo da tecnologia e desenvolvimento.  |**Frustações:** Por mais que seja um prodígio no ambiente em que vive não tem condições para pagar um curso para tal e sua escola não provem nenhum tipo de atividade ou curso sobre o assunto.   |**Hobbies, história:** É um grande prodígio na área tecnológica e exatas além de um grande entusiasta de games, porém não tem condições para se desenvolver no momento de forma autônoma.
+Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
+
+|**2.Pedro Guilherme**|           |                             | 
+|-------------------|-----------|-----------------------------|
+![Augusto](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-cursoprogramacao/assets/142806753/573f8051-e607-48c6-930f-f97007751b87)|**Idade:** 14 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
+|**Motivações:** Deseja desbravar o mundo da tecnologia e desenvolvimento.  |**Frustações:** Por mais que seja um prodígio no ambiente em que vive não tem condições para pagar um curso para tal e sua escola não provem nenhum tipo de atividade ou curso sobre o assunto.   |**Hobbies, história:** É um grande prodígio na área tecnológica e exatas além de um grande entusiasta de games, porém não tem condições para se desenvolver no momento de forma autônoma.
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
 > **Links Úteis**:
@@ -32,7 +38,7 @@ Exemplo:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
+|Augusto dos Santos | Explorar e aprender mais sobre a área de tecnologia. | Construir um futuro baseado nas condições atuais. |
 |Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
