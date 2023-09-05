@@ -28,3 +28,4 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 |--------------------|------------------------------------|----------------------------------------|
 |Augusto dos Santos | Explorar e aprender mais sobre a área de tecnologia. | Entender um pouco mais da atuação do seu tio e desvendar os mistérios do funcionamento de computadores e de softwares. |
 |Pedro Guilherme | Procurar por formas de expandir o seu repertório acerca de conhecimento tecnológico e decidir se quer fazer uma escolha de carreira profissional na área da tecnologia | Decidir o seu futuro profissional. |
+|Natan Pereira | Buscar por mais conhecimento e mais repertório para a área que já vem tendo contato | Aumentar seu conhecimento e repertório |
