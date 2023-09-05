@@ -17,7 +17,7 @@
 
 |**3.Natan Pereira**|           |                             | 
 |-------------------|-----------|-----------------------------|
-![Pedro](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-cursoprogramacao/assets/142806753/c5bc956c-8372-4d05-9f96-de7ab0203721)|**Idade:** 17 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante.       |**Atribuições:** Estudante de escola pública, já tem algum contato com a programação e busca por mais informação para evoluir cada vez mais
+![Natan](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-cursoprogramacao/assets/142806753/143931a8-ac7d-4f37-b436-0136d7c9a8af)|**Idade:** 17 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante.       |**Atribuições:** Estudante de escola pública, já tem algum contato com a programação e busca por mais informação para evoluir cada vez mais
 |**Motivações:** aprimorar-se cada vez mais e criar projetos diferentes com seus conhecimentos.  |**Frustações:** Cursos sobre o assunto são caros para o momento atual que se encontra, portanto para não ficar estagnado pretende fazer o curso para se aprimorar.   |**Hobbies, história:** Começou a pesquisar sobre a programação na época da pandemia e se interessou pelo assunto, desde então fez alguns poucos cursos e mini cursos de graça e foi se aprimorando como um hobby que pretende transformar em trabalho em breve.
 
 ## Histórias de Usuários
