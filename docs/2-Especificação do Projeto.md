@@ -15,6 +15,11 @@
 ![Pedro](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-cursoprogramacao/assets/142806753/c5bc956c-8372-4d05-9f96-de7ab0203721)|**Idade:** 15 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante.       |**Atribuições:** Estudante de escola pública, procura por conteúdos na internet a respeito de jogos simples que possam ser feitos com conhecimento básico em alguma linguagem de programação. 
 |**Motivações:** Experimentar novos ares para que possa decidir o que fará em seu futuro.  |**Frustações:** Por mais que seja um prodígio no ambiente em que vive não tem condições para pagar um curso para tal e sua escola não provem nenhum tipo de atividade ou curso sobre o assunto.   |**Hobbies, história:** É um grande prodígio na área tecnológica e exatas além de um grande entusiasta de games, porém não tem condições para se desenvolver no momento de forma autônoma.
 
+|**3.Natan Pereira**|           |                             | 
+|-------------------|-----------|-----------------------------|
+![Pedro](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-cursoprogramacao/assets/142806753/c5bc956c-8372-4d05-9f96-de7ab0203721)|**Idade:** 17 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante.       |**Atribuições:** Estudante de escola pública, já tem algum contato com a programação e busca por mais informação para evoluir cada vez mais
+|**Motivações:** aprimorar-se cada vez mais e criar projetos diferentes com seus conhecimentos.  |**Frustações:** Cursos sobre o assunto são caros para o momento atual que se encontra, portanto para não ficar estagnado pretende fazer o curso para se aprimorar.   |**Hobbies, história:** Começou a pesquisar sobre a programação na época da pandemia e se interessou pelo assunto, desde então fez alguns poucos cursos e mini cursos de graça e foi se aprimorando como um hobby que pretende transformar em trabalho em breve.
+
 ## Histórias de Usuários
 
 Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
