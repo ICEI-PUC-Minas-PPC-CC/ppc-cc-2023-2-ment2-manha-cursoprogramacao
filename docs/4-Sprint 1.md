@@ -1,5 +1,7 @@
-# Sprint 1
+# Planejamento das aulas
 
-Nesta seção, deverão ser incluídos todos os artefatos produzidos pertinentes à entrega referente à Sprint 1.
+# Aula 01: assunto 01
+- [Material da aula](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-cursoprogramacao/blob/main/docs/teste.pdf)
 
-O detalhamento do que deverá será entregue, será definido em sala em conjunto com seu(sua) professor(a).
+# Aula 02: assunto 0
+- Material da aula
