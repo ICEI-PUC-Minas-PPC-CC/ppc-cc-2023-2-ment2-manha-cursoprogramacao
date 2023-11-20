@@ -4,7 +4,7 @@
 
 Carga horária total das aulas: 8 horas.
 
-IDE a ser utilizada: VScode.
+IDE a ser utilizada: Progamiz
 Linguagem de programação a ser utilizada: Python.
 
 Dias da semana e horário das aulas: Terça e Quinta feira, por duas semanas, na parte da tarde (sujeito a mudança).
