@@ -8,4 +8,4 @@ Vale destacar que, tudo o que foi produzido de registros (fotográficos, lista d
 
 ## Relatório primeira aula
 
-- [Relatório] (https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-cursoprogramacao/blob/7acff49b272ebd94978b077b7b63313328655f57/docs/Relat%C3%B3rio%20curso%20de%20programa%C3%A7%C3%A3o%20primeiro%20dia.pdf)
+- [Relatório](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-cursoprogramacao/blob/fcde384e44529bde05539b283f3f48f2b4134ec2/docs/Relat%C3%B3rio%20curso%20de%20programa%C3%A7%C3%A3o%20primeiro%20dia.pdf)
