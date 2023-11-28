@@ -11,4 +11,4 @@ Vale destacar que, tudo o que foi produzido de registros (fotográficos, lista d
 - [Relatório](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-cursoprogramacao/blob/fcde384e44529bde05539b283f3f48f2b4134ec2/docs/Relat%C3%B3rio%20curso%20de%20programa%C3%A7%C3%A3o%20primeiro%20dia.pdf)
 
 ## Relatório Segunda Aula - 28/11
-- [Relatorio]
+- [Relatorio](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-cursoprogramacao/blob/009c22a71bca1f54214d69924acbc4f823ae1f02/docs/Relat%C3%B3rio%20Aula%20II%20%E2%80%93%20Curso%20de%20Progama%C3%A7%C3%A3o%20B%C3%A1sica%20em%20Python.pdf)
