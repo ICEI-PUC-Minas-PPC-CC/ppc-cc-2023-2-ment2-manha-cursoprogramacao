@@ -15,5 +15,5 @@ Vale destacar que, tudo o que foi produzido de registros (fotográficos, lista d
 
 ## Relatório Terceira Aula - 28/11 e 30/11
 - [Relatorio](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-cursoprogramacao/files/13517893/Relatorio.curso.de.programacao.terceira.aula.pdf)
-- [Relatorio 2](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-cursoprogramacao/files/13517893/Relatorio.curso.de.programacao.terceira.aula.pdf)
+- [Relatorio pt2]([https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-cursoprogramacao/files/13517893/Relatorio.curso.de.programacao.terceira.aula.pdf](https://docs.google.com/document/d/13mjkgAJzl_hmzhkc_lQVHHm4MIR3-VDjfnwjPWE4tt0/edit?usp=sharing)https://docs.google.com/document/d/13mjkgAJzl_hmzhkc_lQVHHm4MIR3-VDjfnwjPWE4tt0/edit?usp=sharing)
 
